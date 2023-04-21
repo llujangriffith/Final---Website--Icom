@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: "Rubik Glitch";
+    font-weight: bold;
+    font-size: 5vw;
+  }
+  h2 {
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    flex: 5;
+    font-size:3vw;
+  }
+  h3 {
+    font-family: "Rubik Glitch";
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    flex: 4;
+    font-size: 3vw;
+  }  
+  h4 {
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    flex: 4;
+    font-size: 15px;  
+  }
+  div {
+    text-align: left;
+  }
+  p {
+    display: inline-block;
+    padding: 0px;
+    margin: 1px;
+  }
+  img {
+    height: 13.25vw;
+    border-style: solid;
+    border-width: .6vw;
+    border-image: radial-gradient(pink, purple) 1;
+  }
+  body{
+    background-color: black;
+    }

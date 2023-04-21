@@ -1,0 +1,38 @@
+h1 {
+    font-size: 3vw;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Codystar";
+  }
+  h2 {
+    font-size:3vw;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  h3 {
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+  }
+  iframe {
+    width: 50vw;
+    height: 30vw;
+  }
+  h4 {
+    text-align: center;
+  }
+  div {
+    text-align: left;
+  }
+  p {
+    font-size: 1.5vw;
+    display: inline-block;
+    margin: 1vw;
+  }
+  img {
+    max-width: 50vw;
+    height: auto;
+  }
+  body{
+    background-color: black;
+    }
