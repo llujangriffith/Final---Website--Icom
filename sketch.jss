@@ -1,5 +1,5 @@
 function preload() {
     bloop=loadSound("bloopsound.mp3");
-function keyPressed() {
+function mousePressed() {
   bloop.play();
 }
